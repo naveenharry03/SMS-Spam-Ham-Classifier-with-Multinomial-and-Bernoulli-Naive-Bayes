@@ -1,1 +1,3 @@
 # SMS-Spam-Ham-Classifier-with-Multinomial-and-Bernoulli-Naive-Bayes
+
+In this project, implemented a full-fledged Naive Bayes classifier in Python to distinguish between spam and non-spam (ham) SMS messages using the 'SMS dataset.' Explored two Naive Bayes variants: Multinomial Naive Bayes and Bernoulli Naive Bayes, comparing their performance in spam detection. The dataset contains labeled SMS messages, making it suitable for training and evaluating the models. By applying Naive Bayes algorithms to this real-world application, we showcase their effectiveness in identifying unwanted spam messages, contributing to enhanced email and text message filtering systems.
